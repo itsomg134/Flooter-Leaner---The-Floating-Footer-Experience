@@ -2,9 +2,7 @@
 
 **Flooter Leaner** is a modern, minimalist UI component & webpage template that redefines the traditional website footer. Instead of a standard static footer that sits at the bottom of the document flow, **Flooter Leaner** uses a sleek **fixed-position glassmorphism bar** that stays accessible at all times — floating gracefully above your content.
 
-> *“A footer that floats, stays lean, and never interrupts.”*
-
-![Preview Placeholder](https://via.placeholder.com/800x400?text=Flooter+Leaner+Demo)
+<img width="1893" height="2902" alt="image" src="https://github.com/user-attachments/assets/cb9a7525-31cd-4a00-aecd-e4caae91bbeb" />
 
 ---
 
