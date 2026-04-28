@@ -144,8 +144,16 @@ Since this is a minimalist pattern, feel free to fork and create your own varian
 
 ---
 
-##  Author & Inspiration
+##  Contact
 
-Created as a creative experiment to challenge how footers behave on modern websites. The goal: keep navigation *always there but never in the way*.
+Om Gedam
 
-> *“Make the footer float like a feather, but stand firm like a rock.”*
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
